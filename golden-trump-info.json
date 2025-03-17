@@ -3,8 +3,8 @@
   "symbol": "GTRU",
   "description": "Golden Trump ruling in GAZA.",
   "image": "https://raw.githubusercontent.com/raginmar/sol-dev-test/refs/heads/main/golden-trump.jpg",
-  "extensions": {
-    "twitter": "https://x.com/realdonaldtrump",
-    "telegram": "https://tlgrm.eu/channels/@real_DonaldJTrump"
+  "extentions": {
+    "twitter": "https://twitter.com/realdonaldtrump",
+    "telegram": "https://t.me/real_DonaldJTrump"
   }
 }
